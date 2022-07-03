@@ -4,17 +4,17 @@ Soy **Diego Bondi**, estudiante de Desarrollo Web Fullstack en Apx. Vivo en Resi
 
 Aspiro a trabajar en este maravilloso mundo muy pronto, mientras tanto vamos viajando en el camino del aprendizaje sin pausas ni prisas.
 
-> El tiempo es el mejor autor; siempre encuentra un final perfecto. Charles Chaplin
+<br>
 
----
+> El tiempo es el mejor autor; siempre encuentra un final perfecto. <br>Charles Chaplin
 
-_Mis hijos, los motores de mi vida_
+<br>
 
-![Nico](https://lh3.googleusercontent.com/1C_dSmOX-6sM5cU7C0QLdmfwXNOHdTS1XtsNvrivr5Tnq2vERYKcUoqWcx_4sDz6vv8LmqB8dcKd7kdMb_r116jNKMy8vONUG8dEBwt41Sfe2NsMd5OX-d9K5C9WlnGoR4nVZ-m6aqUDK8E7qHKnfmQLYpD4O9USLRjzm_lU7UY-QjxWJNdKHIiXNJO-2tm5bt-Izsr5BptRcKBEsvoTEoV8Iqsw5UwJCT3kCAdESAkRSlWw-0kiRZ5gV4VwtX0hO_Qx19hOGeHj92svfFy4CSlnzj5kPI38Pls6bpkvuxilC62LuJG98QukMJkt_HDPhJFnDNK4dQRW7K08_rm0zu7HEXXZmRQwU1JMVV9d-l8zFVoDvsDRMXHIGIAvtH3PpEhUMIlXLL46W8Eu3ZFzBSC_KC7kT__fO-6KcTqr2Z0yLT2AlWpvFPWm1VLxQk4aztbLri7g_HlbyweBKKsU-hPg64vpxjATgvEOPrgvee8e2NnLGWLc4cV6_94jz0qaCODGd2wqaoF93F185p3RLTux9xRgN61hPEXLUr9eV5MEBq-gkC5SS0lUi1iqgFhGJ9jzppudQXXNMxz1a3U9c-JIzDiDjWOQmMH8Kb01ZJrvUx21rfLqGD7r3gzsByYBjaGgSHPsO9MUraoSMs_q3KASadl5a5OXBSjMMvI_m4MJNfF7m5RSSJTzRFpPsdgbngIqhPYeZbaH1zIKAhSBFgp52IS5jVVnA2YgVPKG2JgnTUv-uLNv918iPEKudmcco-peJA_Bou5rTpDD-7b4Odwc4kGtEXO1nQ=w491-h607-no?authuser=0)
+![](https://enjoypakistan.com/wp-content/uploads/2022/05/hello-world-1024x575-1.gif)
 
-![Matteo](https://lh3.googleusercontent.com/iILsJlILsqx44T4xY_7pplr-caLF2W3WUEvf0oM8sBzehAL_32jXcFsmttK4im6eoGYEqaoOFQTHOGmdZnsHOPN8o3prdBS_x9XBbYb4_vvbPThtGfqgwG9jQRaCtpGuPsf_U397tOilb-YyJpX7f7F_l-Ybwnqbk1N_8g1dC-eNPJD382edlABQpqgkN5tRInpvLApzKIUgaeHF2HOD4G9KyS-AILUsUXcGpZup3Dp8TP5kK3QQWvco-4fkg5N5V0lO5HxBKa0i8B-CLPfWU7qkdA5qbJnzhlh_QpmWSwy1t7DN3J2e5yvzdrKRAOtrz6DGMt7rLe12TnZcndx3vLUdHAOZl6qOrcB86e9NtNh0aIybp8X8lfNKXo28xuo64yAFqPs1zjfnRQEJOTzMVViRqFsfUklCneaAGq1H51KXfgoby0fftF23fLWkB9MP-XDXoJ48x_bjSQQAJ7HNf2kKQ0XWFQZhE3SGzh-yD7IPefKq4HIbr9W5cSAt6esiRuQAqSglnzKRBXqQ-eW72K2_xJlU7ZQ-1HY7elk0SDPgA93iUwfoPY5yAFn1yBiZm3RnffWVFiBPncSaWlDAoG6HpM7XgK8a5o-WwhlBZvofa_Yh6DHfKoD0unONL-bjbM8DcG7AqprZLz5OdUDgtmQrgq1bxme9jFlLub-cig6G7hWvVQTiLI6RwLbAR556Md9Hq_AlpkF1sL7OpuiNjQqVd5t-PJs9E8PzmECfOCRfZvR8Z1EZXDjjkf9qBEkoR98FX676WHfumwNu0ZVmx8g9ilIvvlBHHA=w476-h607-no?authuser=0)
+<br>
 
-Mis redes sociales:
+Mis redes sociales
 
 [Facebook](https://web.facebook.com/diego.bondi/)
 [Instagram](https://www.instagram.com/diegoabondi/)
