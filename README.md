@@ -14,7 +14,7 @@ Aspiro a trabajar en este maravilloso mundo muy pronto, mientras tanto vamos via
 
 <br>
 
-Mis redes sociales
+# Mis redes sociales
 
 [Facebook](https://web.facebook.com/diego.bondi/)
 [Instagram](https://www.instagram.com/diegoabondi/)
